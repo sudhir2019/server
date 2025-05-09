@@ -1,0 +1,151 @@
+[
+  {
+    "_id": {
+      "$oid": "67ef6a58037427132a74ac68"
+    },
+    "gameIndex":1,
+    "gameName": "Fun Target",
+    "nodigit": 10,
+    "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+    "status": "active",
+    "isDeleted": false,
+    "deletedAt": null,
+    "releaseDate": {
+      "$date": "2025-04-04T00:00:00.000Z"
+    },
+    "publisher": "GK00700001",
+    "GameImage": [],
+    "timeId": [
+      {
+        "$oid": "67c578fbc6d4a22a55b36bc2"
+      }
+    ],
+    "label": "no",
+    "createdAt": {
+      "$date": "2025-04-04T05:12:56.037Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-04T05:12:56.037Z"
+    },
+    "gameId": "MNOQqWWi"
+  },
+  {
+    "_id": {
+      "$oid": "67ef8bf1037427132a74acb8"
+    },
+    "gameIndex":2,
+    "gameName": "Fun Roullet",
+    "nodigit": 38,
+    "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+    "status": "active",
+    "isDeleted": false,
+    "deletedAt": null,
+    "releaseDate": {
+      "$date": "2025-04-04T00:00:00.000Z"
+    },
+    "publisher": "GK00700001",
+    "GameImage": [],
+    "timeId": [
+      {
+        "$oid": "67c578fbc6d4a22a55b36bc2"
+      }
+    ],
+    "label": "no",
+    "createdAt": {
+      "$date": "2025-04-04T07:36:17.565Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-04T07:36:17.565Z"
+    },
+    "gameId": "vwRORrGO"
+  },
+  {
+    "_id": {
+      "$oid": "67ef8c11037427132a74acbc"
+    },
+    "gameIndex":3,
+    "gameName": "Triple Fun",
+    "nodigit": 1110,
+    "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+    "status": "active",
+    "isDeleted": false,
+    "deletedAt": null,
+    "releaseDate": {
+      "$date": "2025-04-04T00:00:00.000Z"
+    },
+    "publisher": "GK00700001",
+    "GameImage": [],
+    "timeId": [
+      {
+        "$oid": "67c5a1dddbc8378abc976fba"
+      }
+    ],
+    "label": "no",
+    "createdAt": {
+      "$date": "2025-04-04T07:36:49.457Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-04T07:36:49.457Z"
+    },
+    "gameId": "zuuhVbBM"
+  },
+  {
+    "_id": {
+      "$oid": "67ef8c23037427132a74acc0"
+    },
+    "gameIndex":4,
+    "gameName": "Fun AB",
+    "nodigit": 13,
+    "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+    "status": "active",
+    "isDeleted": false,
+    "deletedAt": null,
+    "releaseDate": {
+      "$date": "2025-04-04T00:00:00.000Z"
+    },
+    "publisher": "GK00700001",
+    "GameImage": [],
+    "timeId": [
+      {
+        "$oid": "67c578fbc6d4a22a55b36bc2"
+      }
+    ],
+    "label": "no",
+    "createdAt": {
+      "$date": "2025-04-04T07:37:07.470Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-04T07:37:07.470Z"
+    },
+    "gameId": "qZicXikM"
+  },
+  {
+    "_id": {
+      "$oid": "67ef8c23037427132a74acc1"
+    },
+    "gameIndex":4,
+    "gameName": "Titli Sorrat",
+    "nodigit": 12,
+    "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+    "status": "active",
+    "isDeleted": false,
+    "deletedAt": null,
+    "releaseDate": {
+      "$date": "2025-04-04T00:00:00.000Z"
+    },
+    "publisher": "GK00700001",
+    "GameImage": [],
+    "timeId": [
+      {
+        "$oid": "67c578fbc6d4a22a55b36bc2"
+      }
+    ],
+    "label": "no",
+    "createdAt": {
+      "$date": "2025-04-04T07:37:07.470Z"
+    },
+    "updatedAt": {
+      "$date": "2025-04-04T07:37:07.470Z"
+    },
+    "gameId": "qZicXikT"
+  }]

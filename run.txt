@@ -1,0 +1,47 @@
+
+
+#docker tag sudhir1991/server-server:latest sudhir1991/server-server:latest
+#docker push sudhir1991/server-server:latest
+
+
+#docker tag sudhir1991/mongo:latest sudhir1991/mongo:latest
+#docker push sudhir1991/mongo:latest
+
+
+docker push sudhir1991/server-server:latest
+docker push sudhir1991/mongo:latest
+
+
+docker pull sudhir1991/server-server:latest
+docker pull sudhir1991/mongo:latest
+
+
+docker network create server_rainbowrush-net
+
+
+docker run -d \
+  --name mongo \
+  -p 27017:27017 \
+  -v mongo_data:/data/db \
+  --network server_rainbowrush-net \
+  mongo:latest
+
+
+
+docker run -d \
+  --name server-server \
+  -p 8081:8081 \
+  --env MONGODB_URI=mongodb://mongo:27017/rainbowrushadmin \
+  --network server_rainbowrush-net \
+  sudhir1991/server-server:latest
+
+
+for logs
+docker logs server-server
+docker logs mongo
+
+
+for exec
+
+docker exec -it server-server /bin/bash
+

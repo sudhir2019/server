@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "67c578ddbdebfe72b19067b0"
+  },
+  "timecount": 30,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c578fbc6d4a22a55b36bc2"
+  },
+  "timecount": 60,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c57902ca76e6f9fdabb055"
+  },
+  "timecount": 90,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5a1dddbc8378abc976fba"
+  },
+  "timecount": 120,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "67c5a1dddbc8378abc976f0a"
+  },
+  "timecount": 180,
+  "__v": 0
+}]

@@ -1,0 +1,10 @@
+const express = require("express");
+const { funtarget,funroullet, triplefun, funab, titlisorrat } = require("../controllers/result.controller");
+const fs = require('fs');
+const router = express.Router();
+router.get("/funtarget",funtarget);
+router.get("/funroullet",funroullet);
+router.get("/triplefun",triplefun);
+router.get("/funab",funab);
+router.get("/titlisorrat",titlisorrat);
+module.exports = router;
