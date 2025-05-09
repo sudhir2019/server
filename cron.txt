@@ -1,0 +1,6 @@
+* * * * * sleep 57 && curl -s https://api.rgnlife.in/api/result/funtarget
+* * * * * sleep 57 && curl -s https://api.rgnlife.in/api/result/funroullet
+* * * * * sleep 52 && curl -s https://api.rgnlife.in/api/result/funab
+*/2 * * * * sleep 113 && curl -s https://api.rgnlife.in/api/result/triplefun >> /root/triplefun.log 2>&1
+* * * * * sleep 57 && curl -s https://api.rgnlife.in/api/result/titlisorrat
+0 8 * * * curl -s https://api.rgnlife.in/api/commission/sendcommission

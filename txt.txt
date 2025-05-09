@@ -1,0 +1,11 @@
+sudo fuser -k 8081/tcp
+
+
+
+
+
+const collections = db.getCollectionNames();
+collections.forEach(function (collectionName) {
+  print(`Dropping collection: ${collectionName}`);
+  db[collectionName].drop();
+});

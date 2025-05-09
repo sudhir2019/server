@@ -1,0 +1,548 @@
+[
+    {
+        "_id": {
+            "$oid": "67b9ad999326d99ad63f2372"
+        },
+        "gameName": "Fun Target Bingo",
+        "nodigit": 10,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Fun Target Bingo 1",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T10:57:29.273Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-23T15:22:16.688Z"
+        },
+        "gameId": "JvVKNMso",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9ae019326d99ad63f2375"
+        },
+        "gameName": "Fun Target New",
+        "nodigit": 10,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Fun Target New",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T10:59:13.431Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T10:59:13.431Z"
+        },
+        "gameId": "yoEhQMJy",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9ae179326d99ad63f2378"
+        },
+        "gameName": "Grand Chance",
+        "nodigit": 10,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Grand Chance",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T10:59:35.225Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T10:59:35.225Z"
+        },
+        "gameId": "TYRigOjc",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9ae319326d99ad63f237b"
+        },
+        "gameName": "Green Fun Timer",
+        "nodigit": 10,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Green Fun Timer",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:00:01.986Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:00:01.986Z"
+        },
+        "gameId": "tgleUBDS",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9ae499326d99ad63f237e"
+        },
+        "gameName": "Lucky 10 Fruit",
+        "nodigit": 10,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Lucky 10 Fruit",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:00:25.135Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:00:25.135Z"
+        },
+        "gameId": "CpXtgByx",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9ae5d9326d99ad63f2381"
+        },
+        "gameName": "Lucky Card 12",
+        "nodigit": 12,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Lucky Card 12",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:00:45.138Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:00:45.138Z"
+        },
+        "gameId": "boDrCsaG",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9ae799326d99ad63f2384"
+        },
+        "gameName": "Play Smart",
+        "nodigit": 12,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Play Smart",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:01:13.410Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:01:13.410Z"
+        },
+        "gameId": "bycGJnej",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9ae8c9326d99ad63f2387"
+        },
+        "gameName": "Titli Sorrat",
+        "nodigit": 12,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Titli Sorrat",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:01:32.130Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:01:32.130Z"
+        },
+        "gameId": "siDRwHmr",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9aea79326d99ad63f238a"
+        },
+        "gameName": "Lucky 12 Fruit",
+        "nodigit": 12,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Lucky 12 Fruit",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:01:59.327Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:01:59.327Z"
+        },
+        "gameId": "HdQlOkno",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9aebd9326d99ad63f238d"
+        },
+        "gameName": "Dus Ka Dum",
+        "nodigit": 12,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Dus Ka Dum",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:02:21.309Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:02:21.309Z"
+        },
+        "gameId": "pFvIwZHj",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9aef39326d99ad63f2390"
+        },
+        "gameName": "Yantra",
+        "nodigit": 12,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Yantra",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:03:15.726Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-24T05:09:31.549Z"
+        },
+        "gameId": "sVedIUTl",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9af059326d99ad63f2393"
+        },
+        "gameName": "Ping Pong",
+        "nodigit": 12,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Ping Pong",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:03:33.070Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:03:33.070Z"
+        },
+        "gameId": "sfwmmXAe",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9af1f9326d99ad63f2396"
+        },
+        "gameName": "Lucky Card 16",
+        "nodigit": 16,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Lucky Card 16",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:03:59.639Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:03:59.639Z"
+        },
+        "gameId": "wbzegyzA",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9af509326d99ad63f2399"
+        },
+        "gameName": "36 Roulette 38",
+        "nodigit": 38,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "36 Roulette 38",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:04:48.816Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:05:27.465Z"
+        },
+        "gameId": "YxMwVPUh",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9af919326d99ad63f239e"
+        },
+        "gameName": "Mini Roulette",
+        "nodigit": 37,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Mini Roulette",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:05:53.003Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:05:53.003Z"
+        },
+        "gameId": "mSyXrjYj",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9afcc9326d99ad63f23a1"
+        },
+        "gameName": "European Roulette",
+        "nodigit": 37,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "European Roulette 37",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:06:52.245Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:06:52.245Z"
+        },
+        "gameId": "jvFYrDmV",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9affb9326d99ad63f23a4"
+        },
+        "gameName": "100 Lottery",
+        "nodigit": 100,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "100 Lottery",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:07:39.989Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:07:39.989Z"
+        },
+        "gameId": "jRSrmPgz",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9b0139326d99ad63f23a7"
+        },
+        "gameName": "1000 Lottery",
+        "nodigit": 1000,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "1000 Lottery",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:08:03.911Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:08:03.911Z"
+        },
+        "gameId": "ucrSdMsr",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9b03b9326d99ad63f23aa"
+        },
+        "gameName": "1000 Triple Chance",
+        "nodigit": 1000,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "1000 Triple Chance",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:08:43.985Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:08:43.985Z"
+        },
+        "gameId": "mdciNnKS",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9b09d9326d99ad63f23ad"
+        },
+        "gameName": "10000 Lottery",
+        "nodigit": 10000,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "10000 Lottery",
+        "releaseDate": {
+            "$date": "2025-02-22T00:00:00.000Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:10:21.076Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:10:21.076Z"
+        },
+        "gameId": "LjABrMBg",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "67b9baf33c02be9a2bf4f2eb"
+        },
+        "gameName": "SuperGame 1",
+        "nodigit": 10,
+        "logo": "https://platopedia.com/docs/assets/images/logos/default.png",
+        "status": "active",
+        "isDeleted": false,
+        "description": "Description for SuperGame 1",
+        "releaseDate": {
+            "$date": "2025-02-22T11:54:27.112Z"
+        },
+        "publisher": "superadmin",
+        "createdAt": {
+            "$date": "2025-02-22T11:54:27.128Z"
+        },
+        "updatedAt": {
+            "$date": "2025-02-22T11:54:27.128Z"
+        },
+        "gameId": "zzqOpdpN",
+        "games": null,
+        "timeId": {
+            "$oid": "67c578fbc6d4a22a55b36bc2"
+        }
+    }
+]

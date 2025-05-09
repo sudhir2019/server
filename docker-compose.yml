@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  # Node.js application
+  server:
+    build: .
+    container_name: rainbow-rush-server
+    ports:
+      - "8081:8081"
+    environment:
+      - MONGODB_URI=mongodb://mongo:27017/rainbowrushadmin  # MongoDB connection string
+    depends_on:
+      - mongo
+    networks:
+      - server_rainbowrush-net
+
+  # MongoDB database (using official MongoDB image)
+  mongo:
+    image: mongo:latest
+    container_name: rainbow-rush-mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - server_rainbowrush-net
+
+
+networks:
+  server_rainbowrush-net:
+    driver: bridge
+
+
+volumes:
+  mongo_data:

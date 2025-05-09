@@ -1,0 +1,11 @@
+const { loadPointTransferReport, drawdetails, balancereport, agentdetails, dailystatus, mailreport, revenuereport, findstatus } = require("../controllers/playrep.controller");
+const router = require("express").Router();
+router.get("/pointtransferreport", loadPointTransferReport);
+router.get("/drawdetails", drawdetails);
+router.get("/balancereport", balancereport);
+router.get("/agentdetails", agentdetails);
+router.get("/dailystatus", dailystatus);
+router.get("/mailreport", mailreport);
+router.get("/revenuereport", revenuereport);
+router.get("/findstatus",findstatus);
+module.exports = router;
